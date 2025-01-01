@@ -19,7 +19,7 @@ const Footer = () => {
               <p className="text-lg font-semibold text-yellow-500">Global Industrial Services</p>
               <p className="text-sm mt-2">SF-203, Siddhart Annexe 2, Sama Savli Road, Vemali, Vadodara, Gujarat, 390008.</p>
               <p className="text-sm">Phone: +91-9016728819, +91-9664873092  </p>
-              <p className="text-sm">Email: info@globalindustrialservices@gmail.com</p>
+              <p className="text-sm">Email: info.globalindustrialservices@gmail.com</p>
             </div>
 
             {/* Call to Action Section */}

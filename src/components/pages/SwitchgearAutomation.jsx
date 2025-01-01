@@ -5,11 +5,13 @@ import Footer from '../footer';
 
 import mccb from '../../assets/mccb.webp';
 import auto from '../../assets/auto.jpg';
+import vfd from '../../assets/vfd.jpeg';
 
 const SwitchgearAutomation = () => {
     const products = [
-        { image:mccb, title: 'Switchgear Solutions', description: 'Complete range of MCBs, RCCBs, MCCBs, and more.', buttonText: 'Inquire Now' },
+        { image:vfd, title: 'High quality VFD Panels', description: 'Our VFD Panels offer efficient motor control, reducing energy consumption while extending equipment life. Ideal for various industrial applications, they provide smooth operation and built-in protection for reliable performance.', buttonText: 'Inquire Now' },
         { image:auto, title: 'Industrial Automation', description: 'Advanced automation solutions for enhanced industrial performance.', buttonText: 'Inquire Now' },
+        { image:mccb, title: 'Switchgear Solutions', description: 'Complete range of MCBs, RCCBs, MCCBs, and more.', buttonText: 'Inquire Now' },
     ];
 
     return (

@@ -24,7 +24,7 @@ const PanelsServices = () => {
         {
             image: ems, 
             title: 'EMS System Supply and Installation', 
-            description: 'Supply and installation of EMS systems by L&T and Schneider.', 
+            description: ' Design, Supply, Installation, testing and commissioning work of EMS system.', 
             buttonText: 'Inquire Now', 
         },
     ];
